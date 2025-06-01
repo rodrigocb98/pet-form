@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pet-form/static/css/main.96552604.css",
+    "main.js": "/pet-form/static/js/main.cc376ed7.js",
+    "static/js/239.b6955204.chunk.js": "/pet-form/static/js/239.b6955204.chunk.js",
+    "static/js/977.da7dadd0.chunk.js": "/pet-form/static/js/977.da7dadd0.chunk.js",
+    "static/js/732.eb35209b.chunk.js": "/pet-form/static/js/732.eb35209b.chunk.js",
+    "static/js/453.bb4e77ba.chunk.js": "/pet-form/static/js/453.bb4e77ba.chunk.js",
+    "index.html": "/pet-form/index.html",
+    "main.96552604.css.map": "/pet-form/static/css/main.96552604.css.map",
+    "main.cc376ed7.js.map": "/pet-form/static/js/main.cc376ed7.js.map",
+    "239.b6955204.chunk.js.map": "/pet-form/static/js/239.b6955204.chunk.js.map",
+    "977.da7dadd0.chunk.js.map": "/pet-form/static/js/977.da7dadd0.chunk.js.map",
+    "732.eb35209b.chunk.js.map": "/pet-form/static/js/732.eb35209b.chunk.js.map",
+    "453.bb4e77ba.chunk.js.map": "/pet-form/static/js/453.bb4e77ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96552604.css",
+    "static/js/main.cc376ed7.js"
+  ]
+}
