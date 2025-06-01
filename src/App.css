@@ -1,0 +1,72 @@
+body, html, #root {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #ff007f, #00cfff);
+}
+
+.pet-card {
+  background: linear-gradient(to left, #ff007f, #00cfff);;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.paw-left, .paw-right {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20%; /* o el tamaño de tu imagen */
+  height: auto;
+}
+
+.paw-left {
+  left: 5%;
+}
+
+.paw-right {
+  right: 5%;
+}
+
+
+.pet-input {
+  border: 2px solid #ffd699;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  background-color: #fffaf5;
+  text-align: center;
+}
+
+.pet-input:focus {
+  outline: none;
+  border-color: #ffb347;
+  box-shadow: 0 0 5px #ffb347;
+}
+
+.pet-button {
+  background-color: #ffb347;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: block;
+  margin: 0 auto;
+}
+
+.pet-button:hover {
+  background-color: #ffa233;
+}
