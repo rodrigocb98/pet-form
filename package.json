@@ -1,6 +1,5 @@
 {
   "name": "pet-form",
-  "homepage": "https://rodrigocb98.github.io/pet-form",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
